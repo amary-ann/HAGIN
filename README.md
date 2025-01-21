@@ -1,4 +1,4 @@
-# Speech Recognition Project
+#    HAGIN Project
 
 This project contains Python scripts for:
 1. Converting video to audio and performing speech-to-text.
